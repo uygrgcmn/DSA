@@ -1,3 +1,6 @@
+//Uygar Ali Göçmen
+//211504804
+
 ```bash
 git clone https://github.com/uygrgcmn/DSA
 
